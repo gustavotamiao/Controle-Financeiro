@@ -31,5 +31,6 @@ Durante o curso pude desenvolver habilidades como
 
 ## :bulb: Telas
 ![gif telas de login e cadastro do sistema](login-cadastro.gif)
+![gif telas do sistema financeiro](controle-financeiro.gif)
 
 
